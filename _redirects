@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://naughty-goldwasser-188faf.netlify.com/* http://www.moonlightwu.com/:splat 301!
